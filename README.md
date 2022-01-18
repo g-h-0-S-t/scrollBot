@@ -7,5 +7,5 @@ javascript: var startScroll = setInterval(function(){window.scrollBy(0, 1);},1);
 ```
 - Stop Scroll
 ```
-javascript: var stopScroll = clearInterval(startscroll);
+javascript: var stopScroll = clearInterval(startScroll);
 ```
