@@ -1,5 +1,5 @@
 # Scroll Bot
-I just scroll for fun.  
+## I just scroll for fun.  
 Save the following lines of code as 2 separate browser bookmarks:  
 - Start Scroll
 ```
